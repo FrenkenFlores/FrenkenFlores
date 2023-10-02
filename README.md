@@ -1,5 +1,5 @@
 
-### Hello and welcome! 👋
+### H! I am Saifuddin 👋
 
 ## Visionary Software Engineer | Innovator in Technology | Samsung Alumnus | Nicola 42 Graduate ⚡
 
@@ -12,6 +12,8 @@ Any software engineer should be constantly learning various topics from computer
 ![image](https://github.com/FrenkenFlores/FrenkenFlores/assets/64427116/2cf074ff-4adb-4a78-8273-0f2daa1cb0ce)
 ![](https://github-readme-stats.vercel.app/api?username=FrenkenFlores&theme=white)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=FrenkenFlores&theme=white)
+
+---
 
 ### Mainary programming languages
 ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=for-the-badge)
@@ -75,7 +77,7 @@ Any software engineer should be constantly learning various topics from computer
 ![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
-
+---
 
 ## Let's talk! 📫
 Feel free to reach out to me through email or social media for inquiries or collaboration opportunities. You can also connect with me on LinkedIn to stay updated on my professional journey.
