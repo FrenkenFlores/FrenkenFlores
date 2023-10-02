@@ -8,7 +8,8 @@ As a seasoned **Software Engineer** with a strong professional background at ind
 ## Skills
 
 ### Skills diagram
-Any software engineer should be constantly learning various topics from computer science and math, that help us to find the optimal solutions for our targeted problem as well as being able to create more and come up with new innovations that could change the world! Stay curious! Stay focused! 😌
+Every software engineer should continuously engage in learning various topics from computer science and mathematics. This knowledge not only enables us to discover optimal solutions for specific problems but also empowers us to innovate and potentially bring about world-changing advancements. 😌
+
 ![image](https://github.com/FrenkenFlores/FrenkenFlores/assets/64427116/2cf074ff-4adb-4a78-8273-0f2daa1cb0ce)
 ![](https://github-readme-stats.vercel.app/api?username=FrenkenFlores&theme=white)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=FrenkenFlores&theme=white)
@@ -16,12 +17,16 @@ Any software engineer should be constantly learning various topics from computer
 ---
 
 ### Mainary programming languages
+It is important to be able to solve any problem we face without imposing too many limits. C/C++ can provide us with control over the CPU and RAM. They are fast languages and are almost backward compatible, allowing us to write both low-level and high-level code. On the other hand, Python is a high-level language that is easy to use. It has a wealth of useful libraries and frameworks to meet various needs. Shell scripting is essential for automating tasks on Unix systems.
+
 ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=for-the-badge)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ### Secondary programming languages
+Every software engineer should possess the knowledge and experience to work with a diverse range of technologies, including those with which he may have limited experience. This may involve creating Android applications, developing web applications, writing client-server software and utilties, and even recording documentation.
+
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -33,12 +38,16 @@ Any software engineer should be constantly learning various topics from computer
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
 ### Databases I work with
+Data is one of the most essential entities today, especially in the era of big data. Almost every development process involves working with databases. There are two most popular types of databases - relational (SQL) and non-relational (NoSQL). It is important to be able to choose and work with both, as each has its own advantages and disadvantages.
+
 ![SQL](https://img.shields.io/badge/MySql-00599F?logo=Mysql&logoColor=white&style=for-the-badge)
 ![SQL](https://img.shields.io/badge/SQLite-00599C?logo=Sqlite&logoColor=white&style=for-the-badge)
 ![SQL](https://img.shields.io/badge/PostgreSQL-1d81a3?logo=PostgreSQL&logoColor=white&style=for-the-badge)
 ![SQL](https://img.shields.io/badge/MongoDB-2f6a5b?logo=MongoDB&logoColor=white&style=for-the-badge)
 
 ### OS I work with
+Software engineers are accustomed to working with different operating systems due to the various tasks they may encounter. Generally, there may not be a significant difference in Unix systems, but knowing the details can make it easier to troubleshoot any issues that may occur, such as when starting a container, for example.
+
 ![Alpine](https://img.shields.io/badge/Alpine_Linux-0D597F?style=for-the-badge&logo=alpine-linux&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
@@ -48,6 +57,8 @@ Any software engineer should be constantly learning various topics from computer
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ### Technologies and frameworks
+There are essential tools for any software engineer. These include automation tools like Cron and Kubernetes, code versioning systems like Git, and build systems such as Gradle and CMake that help with code checking, testing, and compilation to build the final product. Additionally, there are frameworks like Django, Flask, and FastAPI that can significantly simplify the process of creating web applications or APIs. It's important for every software engineer to seek out and study these tools, as it prevents reinventing the wheel and facilitates efficient development.
+
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
 ![AOSP](https://img.shields.io/badge/AOSP-4EAA25?style=for-the-badge&logo=android&logoColor=white)
@@ -71,10 +82,12 @@ Any software engineer should be constantly learning various topics from computer
 ![TF](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 ### IDE
-![VSCode](https://img.shields.io/badge/VsCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![XCode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
+As a software engineer, I work from the terminal, which significantly speeds up the development process. And, like many software engineers, **Vim** will always have a special place in my heart ❤️.
+
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
+![VSCode](https://img.shields.io/badge/VsCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![XCode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
 ![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
