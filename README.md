@@ -1,4 +1,8 @@
+
 ### Hi there 👋
+
+![image](https://github.com/FrenkenFlores/FrenkenFlores/assets/64427116/f8f46b35-18e5-4a44-b172-3d3254d97081)
+
 
 <!--
 **FrenkenFlores/FrenkenFlores** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
