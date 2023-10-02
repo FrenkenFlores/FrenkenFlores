@@ -1,5 +1,5 @@
 
-### H! I am Saifuddin 👋
+### Hi! I am Saifuddin 👋
 
 ## Visionary Software Engineer | Innovator in Technology | Samsung Alumnus | Nicola 42 Graduate ⚡
 
