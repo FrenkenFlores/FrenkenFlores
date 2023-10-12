@@ -5,6 +5,8 @@
 
 As a seasoned **Software Engineer** with a strong professional background at industry-leading **Samsung** and education from the prestigious **Nicola 42 programming school**, I bring a wealth of experience and expertise to the table. My passion for technology extends beyond the workplace, evident through my extensive reading and participation in a multitude of courses, constantly expanding my knowledge in Computer Science. 😄
 
+## Currently working on: [gitprint](https://www.gitprint.store) 🧑🏻‍💻
+
 ## Skills
 
 ### Skills diagram
