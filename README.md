@@ -16,7 +16,7 @@ Every software engineer should continuously engage in learning various topics fr
 ![](https://github-readme-stats.vercel.app/api?username=FrenkenFlores&theme=white)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=FrenkenFlores&theme=white)
 
-![[gitprint stats](https://gitprint.store)🎲](./contributions.stl)
+[[gitprint stats](https://gitprint.store) 🎲](./contributions.stl)
 
 ---
 
