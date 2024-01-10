@@ -1,7 +1,7 @@
 
 ### Hi! I am Saifuddin 👋
 
-## Visionary Software Engineer | Innovator in Technology | Samsung Alumnus | Nicola 42 Graduate ⚡
+## Visionary Software Engineer | Innovator in Technology | Samsung Alumnus | 42 Programmming School Graduate ⚡
 
 As a seasoned **Software Engineer** with a strong professional background at industry-leading **Samsung** and education from the prestigious **Nicola 42 programming school**, I bring a wealth of experience and expertise to the table. My passion for technology extends beyond the workplace, evident through my extensive reading and participation in a multitude of courses, constantly expanding my knowledge in Computer Science. 😄
 
